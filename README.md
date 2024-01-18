@@ -1,1 +1,11 @@
-# qb-versions
+## Job Versions
+- qb-bahamajob: 3.0.0
+- qb-beanmachinejob: 2.0.5
+- qb-burgershotjob: 10.0.1
+- qb-chowhub: 1.0.5
+- qb-hornys: 1.0.0
+- qb-koijob: 1.0.0
+- qb-pearlsjob: 2.2.3
+- qb-pizzathisjob: 4.2.2
+- qb-upnatoms: 2.1.3
+- qb-uwujob: 2.3.0
