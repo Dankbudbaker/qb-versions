@@ -1,13 +1,14 @@
 [
-    {"jobName": "qb-bahamajob", "version": "3.0.0"},
-    {"jobName": "qb-beanmachinejob", "version": "2.0.5"},
-    {"jobName": "qb-burgershotjob", "version": "10.0.1"},
-    {"jobName": "qb-chowhub", "version": "1.0.6"},
-    {"jobName": "qb-hornys", "version": "1.0.5"},
-    {"jobName": "qb-koijob", "version": "1.0.0"},
-    {"jobName": "qb-pearlsjob", "version": "2.2.3"},
-    {"jobName": "qb-pizzathisjob", "version": "4.2.2"},
-    {"jobName": "qb-upnatoms", "version": "2.1.3"},
-    {"jobName": "qb-uwujob", "version": "2.3.0"},
-    {"jobName": "phone-losSantosShieldPatrol", "version": "1.0.0"}
+    {"jobName": "QBCore-Bahama-Mama", "version": "3.0.0"},
+    {"jobName": "QBCore-Bean-Machine", "version": "2.0.5"},
+    {"jobName": "QBCore-Burgershot", "version": "10.0.1"},
+    {"jobName": "QBCore-Chowhub", "version": "1.0.6"},
+    {"jobName": "QBCore-Hornys", "version": "1.0.5"},
+    {"jobName": "QBCore-Koi", "version": "1.0.0"},
+    {"jobName": "QBCore-Pearls", "version": "2.2.3"},
+    {"jobName": "QBCore-Pizza-This-Pizzeria", "version": "4.2.2"},
+    {"jobName": "QBCore-Up-N-Atoms", "version": "2.1.3"},
+    {"jobName": "QBCore-Uwu-Cafe", "version": "2.3.0"},
+    {"jobName": "phone-losSantosShieldPatrol", "version": "1.0.0"},
+    {"jobName": "phone-premire", "version": "1.0.0"}
 ]
