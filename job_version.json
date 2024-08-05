@@ -10,11 +10,10 @@
     {"jobName": "QBCore_Pizza_This_Pizzeria", "version": "4.2.3"},
     {"jobName": "QBCore_Up_N_Atoms", "version": "2.1.4"},
     {"jobName": "QBCore_Uwu_Cafe", "version": "2.3.2"},
-    {"jobName": "phone-losSantosShieldPatrol", "version": "1.0.0"},
-    {"jobName": "phone-premire", "version": "1.0.0"},
     {"jobName": "QBCore_Vanilla_Unicorn", "version": "1.0.0"},
+    {"jobName": "Dank_Baitcar", "version": "1.5.4"},
     
-    {"jobName": "Qbcore_Baitcar", "version": "1.5.2"},
-    {"jobName": "Esx_Baitcar", "version": "1.5.2"},
+    {"jobName": "Qbcore_Baitcar", "version": "1.5.4"},
+    {"jobName": "Esx_Baitcar", "version": "1.5.4"},
 
 ]
